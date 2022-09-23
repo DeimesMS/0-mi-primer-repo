@@ -46,6 +46,6 @@ Con esto instalaremos a versión de `git` máis reciente para o nos sistema.
 
 Taboa cortesía de [**_Tables Generator_**](https://www.tablesgenerator.com/markdown_tables)
 
-![Cute Cat](.img/cute_cat.jpeg)
+![Cute Cat](./img/cute_cat.jpeg)
 
 
